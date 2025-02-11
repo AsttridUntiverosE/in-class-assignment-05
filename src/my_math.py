@@ -27,3 +27,4 @@ def calculate_birth_year(current_year, age, had_birthday_in_current_year):
     if not had_birthday_in_current_year:
         return birth_year - 1
     return birth_year
+
